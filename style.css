@@ -5,6 +5,7 @@ a{color:var(--azul)}
 .wrap{max-width:1040px;margin:0 auto;padding:0 20px}
 header{background:var(--marinho);position:sticky;top:0;z-index:10}
 header .wrap{display:flex;align-items:center;justify-content:space-between;height:64px}
+.logo img{display:block;height:48px;width:auto}
 .logo{color:#fff;font-weight:800;font-size:1.25rem;text-decoration:none;letter-spacing:.5px}
 .logo span{color:#5aa2ff}
 nav a{color:#cfe0ff;text-decoration:none;margin-left:20px;font-size:.95rem}
